@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mohim-portfolio.vercel.app/sitemap.xml
+Sitemap: https://mohim-portfolio-self.vercel.app/sitemap.xml
