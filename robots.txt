@@ -1,5 +1,6 @@
-# robots.txt — replace YOUR_PRODUCTION_DOMAIN with the live domain before launch
+# robots.txt for Mohim Das Portfolio & CodeLX
 User-agent: *
 Allow: /
 
+# Canonical XML Sitemap
 Sitemap: https://mohim-portfolio-self.vercel.app/sitemap.xml
